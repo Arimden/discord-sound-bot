@@ -2,3 +2,4 @@
 
 !server/*.js
 !lib/*.js
+!test/*.js
